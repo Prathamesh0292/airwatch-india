@@ -1,4 +1,4 @@
-package com.example.airwatch;
+package com.airwatch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
